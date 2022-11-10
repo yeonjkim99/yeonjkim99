@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yeonjkim99
+- 👀 I’m interested in Time Series Analysis and Natural Language Processing.
+- 🌱 I’m currently learning basics of AI at AIFFEL.
+- 💞️ I’m looking to collaborate on stock market/crypto currency market analysis for trading.
+- 📫 You can reach me at yeonjkim99@gmail.com.
